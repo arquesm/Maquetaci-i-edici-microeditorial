@@ -31,3 +31,17 @@
   * Creació de presentacions i publicacions online
   * Treball amb plugins i scripts
 
+### Evaluar
+
+El dia - cadascú presentarà la seua proposta de redisseny en la classe. A partir del pdf redissenyat.
+
+Què és el que s'avaluarà?
+
+* Que s'hagen llegit i comprès els textos que ha de maquetar.
+* Realitzar les il·lustracions de portada i contraportada de la maquetació i seu contingut faça referència al contingut del fanzine.
+* Que estiga maquetat en un A5.
+* Que es mantinguen els màrgens de la maquetació al llarg del seu disseny interior.
+* Que s'utilitzen els estils de paràgraf. (Es realitzen canvis a partir del disseny que es va donar de base)
+* Que s'utilitzen dos tipografies per a tota la publicació. (s'han de triar dos tipografies no les que ja s'utilitzen per defecte)
+* Entrega del digital en pdf , .ind (amb les imatges i fonts utilitzades) 
+* Imprès sobre A4 i grapat, en format fullet.
