@@ -33,7 +33,7 @@
 
 ### Evaluar
 
-A partir d'aquest document ja en indesign amb el contingut (text + imatges) l'alumnat haurà de fer una reinterpretació gràfica
+A partir d'aquest [document|https://github.com/arquesm/Maquetaci-i-edici-microeditorial/blob/master/p3_final.zip] ja en indesign amb el contingut (text + imatges) l'alumnat haurà de fer una reinterpretació gràfica
 a partir dels canvis que enumerarem a continuació que són els ítems que es valoraran.
 
 L'entrega i presentació es realitzara el dia 10 de desembre.
