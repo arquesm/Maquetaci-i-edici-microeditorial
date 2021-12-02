@@ -33,12 +33,7 @@
 
 ### Evaluar
 
-A partir d'aquest [document](https://github.com/arquesm/Maquetaci-i-edici-microeditorial/blob/master/p3_final.zip) ja en indesign amb el contingut (text + imatges) l'alumnat haurà de fer una reinterpretació gràfica
-a partir dels canvis que enumerarem a continuació que són els ítems que es valoraran.
-
-L'entrega i presentació es realitzara el dia 10 de desembre.
-
-Cadascú presentarà la seua proposta de redisseny en la classe. A partir del pdf redissenyat i l'imprès.
+L'objectiu de la pràctica és que a partir d'aquest [document](https://github.com/arquesm/Maquetaci-i-edici-microeditorial/blob/master/p3_final.zip) ja en indesign amb el contingut (text + imatges) l'alumnat haurà de fer una reinterpretació gràfica a partir dels canvis que enumerarem a continuació que són els ítems que es valoraran.
 
 Què és el que s'avaluarà?
 
@@ -50,3 +45,7 @@ Què és el que s'avaluarà?
 * Que s'utilitzen dos tipografies per a tota la publicació. (s'han de triar dos tipografies no les que ja s'utilitzen per defecte)
 * Entrega del digital en pdf , .ind (amb les imatges i fonts utilitzades) 
 * Imprès sobre A4 i grapat, en format fullet.
+
+L'entrega i presentació es realitzara el dia 10 de desembre.
+
+Cadascú presentarà la seua proposta de redisseny en la classe. A partir del pdf redissenyat i l'imprès.
